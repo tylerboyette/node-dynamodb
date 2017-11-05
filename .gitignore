@@ -8,3 +8,4 @@ node_modules/
 /tests/**/*.js
 /tests/**/*.js.map
 yarn-error.log
+.aws
