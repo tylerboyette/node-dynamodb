@@ -4,5 +4,15 @@
   "main": "src/index.js",
   "repository": "https://github.com/welkie/example-ts-node-dynamodb.git",
   "author": "Matthew Welke <mattwelke@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@types/koa": "^2.0.39",
+    "@types/koa-router": "^7.0.23",
+    "@types/node": "^8.0.47",
+    "typescript": "^2.6.1"
+  },
+  "dependencies": {
+    "koa": "^2.3.0",
+    "koa-router": "^7.2.1"
+  }
 }
