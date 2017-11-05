@@ -1,0 +1,8 @@
+{
+  "name": "example-ts-node-dynamodb",
+  "version": "0.0.1",
+  "main": "src/index.js",
+  "repository": "https://github.com/welkie/example-ts-node-dynamodb.git",
+  "author": "Matthew Welke <mattwelke@gmail.com>",
+  "license": "MIT"
+}
