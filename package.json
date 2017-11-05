@@ -2,7 +2,7 @@
   "name": "example-typescript-node-dynamodb",
   "version": "0.0.1",
   "main": "src/index.js",
-  "repository": "https://github.com/welkie/example-ts-node-dynamodb.git",
+  "repository": "https://github.com/welkie/example-typescript-node-dynamodb.git",
   "author": "Matthew Welke <mattwelke@gmail.com>",
   "license": "MIT",
   "devDependencies": {
@@ -13,7 +13,6 @@
     "@types/koa-bodyparser": "^3.0.25",
     "@types/koa-router": "^7.0.23",
     "@types/node": "^8.0.47",
-    "@types/uuid": "^3.4.3",
     "typescript": "^2.6.1"
   },
   "dependencies": {
@@ -22,7 +21,6 @@
     "http-status-codes": "^1.3.0",
     "koa": "^2.3.0",
     "koa-bodyparser": "^4.2.0",
-    "koa-router": "^7.2.1",
-    "uuid": "^3.1.0"
+    "koa-router": "^7.2.1"
   }
 }
