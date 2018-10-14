@@ -12,9 +12,9 @@
   dependencies:
     aws-sdk "*"
 
-"@types/bcrypt@^1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@types/bcrypt/-/bcrypt-1.0.0.tgz#2c523da191db7d41c06d17de235335c985effe9b"
+"@types/bcrypt@^3.0.0":
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/@types/bcrypt/-/bcrypt-3.0.0.tgz#851489a9065a067cb7f3c9cbe4ce9bed8bba0876"
 
 "@types/body-parser@*":
   version "1.16.7"
