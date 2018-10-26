@@ -6,8 +6,8 @@ async function addOne (ctx: Context) {
     const m = new UserManager();
 
     // Check for required params
-    const email = ctx.request.body.email;
-    const password = ctx.request.body.password;
+    const email = (ctx.request.body as any).email;
+    const password = (ctx.request.body as any).password;
 
     if (!email || !password) {
         ctx.status = HttpStatus.BAD_REQUEST;

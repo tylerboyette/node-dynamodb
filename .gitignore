@@ -9,3 +9,4 @@ node_modules/
 /tests/**/*.js.map
 yarn-error.log
 .aws
+dist/

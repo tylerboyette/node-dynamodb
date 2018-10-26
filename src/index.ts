@@ -1,7 +1,7 @@
-import * as Koa from 'koa';
-import * as Router from 'koa-router';
-import * as bodyParser from 'koa-bodyparser';
-import * as Aws from 'aws-sdk';
+import Koa from 'koa';
+import Router from 'koa-router';
+import bodyParser from 'koa-bodyparser';
+import Aws from 'aws-sdk';
 
 // Setting up AWS
 Aws.config.loadFromPath('./.aws/config.json');
