@@ -24,6 +24,6 @@
     "koa-router": "^7.4.0"
   },
   "scripts": {
-    "build": "npm run build"
+    "build": "tsc"
   }
 }
