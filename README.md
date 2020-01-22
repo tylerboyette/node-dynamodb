@@ -1,5 +1,4 @@
-# example-typescript-node-dynamodb
-
+# Project
 Example using Node (in TypeScript) for back end with AWS DynamoDB as database.
 
 ## AWS Credentials
